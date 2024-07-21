@@ -19,11 +19,11 @@ Chillflix is a movie and web series streaming application built using React.js. 
 
 
 ## SCREEN SHOTS
-![]()
+![](https://github.com/GauravAnand30/chillflix/blob/main/sc/Screenshot%202024-07-21%20172203.png)
 
-![]()
+![](https://github.com/GauravAnand30/chillflix/blob/main/sc/Screenshot%202024-07-21%20172728.png)
 
-![]()
+![](https://github.com/GauravAnand30/chillflix/blob/main/sc/Screenshot%202024-07-21%20173030.png)
 ## Installation
 
 1. **Clone the repository:**
